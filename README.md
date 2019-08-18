@@ -46,3 +46,6 @@ https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivstunden.html
 ## traffic counts data:
 deutschland:
 https://www.bast.de/BASt_2017/DE/Verkehrstechnik/Fachthemen/v2-verkehrszaehlung/Stundenwerte.html?nn=1817946
+
+uk:
+https://data.gov.uk/dataset/208c0e7b-353f-4e2d-8b7a-1a7118467acc/gb-road-traffic-counts
